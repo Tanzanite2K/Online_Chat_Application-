@@ -1,10 +1,4 @@
 # Online_Chat_Application
-Certainly! Here's a **slightly more detailed and professional project introduction** suitable for reports, presentations, or LinkedIn/portfolio writeups:
-
----
-
-### 🔹 **Project Introduction – HelloBuddy: Real-Time Chat Web Application**
-
 **HelloBuddy** is a full-stack real-time chat application designed to provide users with a smooth, secure, and interactive messaging experience. Developed as part of the B.Tech AI course at **SRM University–AP**, the project demonstrates the integration of multiple modern web technologies to build a production-ready communication platform.
 
 The core purpose of HelloBuddy is to enable users to connect, chat, and stay updated with their buddies in real time. The application allows users to **register or log in securely using email credentials**, update their **profile picture and display name**, and engage in **live conversations with online/offline indicators**, all supported by **Socket.IO** for real-time communication. Additionally, HelloBuddy supports **theme customization**, allowing users to personalize their interface for a more engaging experience.
